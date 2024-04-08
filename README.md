@@ -1,4 +1,4 @@
-![image](https://github.com/fernandokarnagi/examples/assets/15156095/4fcd4e8d-00cd-4e9c-9ba3-01c5ae844597)# Helm Example Repository
+# Helm Example Repository
 
 Ahoy world! I'm a Helm repository for example charts.
 
