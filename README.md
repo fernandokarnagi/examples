@@ -1,6 +1,6 @@
 # Helm Example Repository
 
-Ahoy world!  I'm a Helm repository for example charts.
+Ahoy world! I'm a Helm repository for example charts.
 
 ## Get started
 
