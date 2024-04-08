@@ -1,7 +1,8 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: helloworld
+  name: {{ include "hello-world.fullname" . }}
+  namespace: {{ .Values.namespace }}
   labels: {{- include "hello-world.labels" . | nindent 4 }}
 spec:
   replicas: {{ .Values.replicaCount }}
